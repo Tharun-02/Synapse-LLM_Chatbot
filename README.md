@@ -10,3 +10,7 @@ Clone the repository:
 ```git
 git clone https://github.com/Tharun-02/Synapse-LLM_Chatbot
 ```
+
+## License
+
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/)
